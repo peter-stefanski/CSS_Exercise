@@ -1,15 +1,6 @@
-#main-content p{
+p, a, span, li{
     color:red;
-}
-
-p{
-    color:black;
-}
-
-.test {
-    color:yellow;
-}
-
-strong {
-    color:green;
+    font-size: 30px;
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
