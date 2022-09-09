@@ -1,24 +1,15 @@
-/*This is good*/
-p {
-    font-size: 12px;
-    color: rgb(255, 0, 0);
+#main-content p{
+    color:red;
 }
 
-a {
-    text-decoration: underline;
-    color: blue;
+p{
+    color:black;
 }
 
-span{
-    text-transform: uppercase;
-
+.test {
+    color:green;
 }
 
-h1{
- font-size: 32px;   
-}
-
-div{
-    width: 100%;
-    backgroud: grey;
+strong {
+    color:green;
 }
